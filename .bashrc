@@ -31,3 +31,9 @@ alias l='lsd'
 alias la='lsd -a'
 alias suod='sudo'
 
+. "$HOME/.cargo/env"
+
+# >>> Added by Spyder >>>
+alias spyder=/home/rox/.local/spyder-6/envs/spyder-runtime/bin/spyder
+alias uninstall-spyder=/home/rox/.local/spyder-6/uninstall-spyder.sh
+# <<< Added by Spyder <<<
